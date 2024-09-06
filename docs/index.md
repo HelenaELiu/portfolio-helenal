@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "TODO: Title"
-  text: "TODO: Subtitle"
-  tagline: "TODO: Tagline"
+  name: "Helena Liu's Portfolio"
+  text: "6.1040 Fall 2024"
+  tagline: "hiiii"
   actions:
     - theme: brand
       text: Template Repository

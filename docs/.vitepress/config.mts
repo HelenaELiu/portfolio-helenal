@@ -5,7 +5,7 @@ export default defineConfig({
   title: "Helena Liu's Portfolio",
   description: "6.1040 Fall 2024",
   // TODO: add your base here; this should be your repo name!
-  // base: "/portfolio-helenal/",
+    base: "/portfolio-helenal/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [

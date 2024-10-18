@@ -23,7 +23,7 @@ Safety:
 
 The actual dosage of radiation was not displayed on the screen, so when operators administered radiation, they had no way of knowing if it would be 200 rads or 20,000 rads.
 
-Solutions
+Solutions:
 
 Firstly, I would handle more errors in the code rather than displaying an error every single time. Due to the sheer number of errors that operators encountered, they became desensitized to them.
 
